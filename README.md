@@ -13,13 +13,13 @@ This project focuses on analyzing customer churn data and identifying key factor
 - **Dataset**: Customer churn dataset from [Kaggle].
 
 ## Visualization
-![Customer Churn Dashboard Overview](Images/AllCustomerProfile.png)
+![Customer Churn Dashboard Overview](Images/All Customer Profile.png)
 *Description: A comprehensive overview of customer churn rates, showing the percentage of customers who have churned over a specified period.*
 
-![Churn Customer Details](Images/ChurnCustomerDetails.png)
+![Churn Customer Details](Images/Churn Customer Details.png)
 *Description: Analysis of customer churn segmented by demographics, providing insights into which customer groups are most at risk of churning.*
 
-![Customer Details Report](Images/CustomerDetailsReport.png)
+![Customer Details Report](Images/Customer Details Report.png)
 *Description: Visualization of proposed retention strategies based on churn analysis, highlighting targeted actions to reduce churn rates.*
 
 
