@@ -10,7 +10,7 @@ This project focuses on analyzing customer churn data and identifying key factor
 
 ## Tools Used
 - **Power BI**: For building the dashboard and visualizing the data.
-- **Dataset**: Customer churn dataset from [Kaggle/other source].
+- **Dataset**: Customer churn dataset from [Kaggle].
 
 ## How to Use
 - Download the `.pbix` file and open it in Power BI Desktop.
