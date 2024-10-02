@@ -5,11 +5,11 @@ This project focuses on analyzing customer churn data and identifying key factor
 
 ## Key Features
 - Interactive Power BI dashboard
-- Visualizations highlighting churn rates by various factors such as demographics, service usage, and customer lifetime
+- Visualizations highlighting churn rates by various factors such as demographics, service usage, and Customers Contract
 - Insights into improving customer retention strategies
 
 ## Tools Used
-- **Power BI**: For building the dashboard and visualizing the data.
+- **Power BI**: Form ETL to  building the dashboard and visualizing the data.
 - **Dataset**: Customer churn dataset from [Kaggle].
 
 ## Visualization
