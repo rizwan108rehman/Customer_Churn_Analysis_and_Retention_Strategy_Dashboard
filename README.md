@@ -12,6 +12,17 @@ This project focuses on analyzing customer churn data and identifying key factor
 - **Power BI**: For building the dashboard and visualizing the data.
 - **Dataset**: Customer churn dataset from [Kaggle].
 
+## Visualization
+![Customer Churn Dashboard Overview](Images/AllCustomerProfile.png)
+*Description: A comprehensive overview of customer churn rates, showing the percentage of customers who have churned over a specified period.*
+
+![Churn Customer Details](Images/ChurnCustomerDetails.png)
+*Description: Analysis of customer churn segmented by demographics, providing insights into which customer groups are most at risk of churning.*
+
+![Customer Details Report](Images/CustomerDetailsReport.png)
+*Description: Visualization of proposed retention strategies based on churn analysis, highlighting targeted actions to reduce churn rates.*
+
+
 ## How to Use
 - Download the `.pbix` file and open it in Power BI Desktop.
 - Explore the interactive dashboard by selecting different filters and slicers to view various insights.
